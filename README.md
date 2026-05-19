@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LuciferC1
-- 👀 I’m interested in Learning HTML to start of with! then moving onto stuff within React.js.
-- 🌱 I’m currently learning to become a front end developer, I dont't know why its taken me so long to find out i can do this!
-- I’m looking to collaborate on making front end websites that will help my knowledge and portfolio.
+- 👀 I’m interested in AI, Vibecoding with Tools such as Cursor, Codex etc.
+- 🌱 I’m currently messing around and seeing what i can build.
 - 📫 How to reach me, Luciferclark94@icloud.com
 
 <!---
